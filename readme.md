@@ -27,3 +27,4 @@ Create one (choose a cool nickname and everything) and you’ll be able to move 
 
 Once you’re done with this dib.
 Just make sure that you run all scripts in the next quests on one of the containers created by docker-compose up.  Also, you can use docker exec to run commands on a running container.
+
